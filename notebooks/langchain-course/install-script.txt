@@ -1,0 +1,2 @@
+conda install -c conda-forge openai langchain tiktoken docx2txt pypdf
+pip install pinecone-client langchainhub langchain_openai langchain_experimental
